@@ -1,1 +1,0 @@
-print("hello wechat_auto")
